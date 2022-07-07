@@ -22,7 +22,6 @@ A selftaught future junior software tester.
 * Databases: MySQL
 * Operating systems: macOS, Windows
 * Version control systems: Git, Github
-* Poznane metodologie zarządzania, jak SCRUM czy Kanban.
 * Testing: Jira, Zephyr, TestFlo, Confluence, TestRail, Charles Proxy, Mockaroo, Chrome DevTools
 * Development environment: IntelliJ IDEA, Visual Studio Code
 * Other: Trello, Slack, Discord
