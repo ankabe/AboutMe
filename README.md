@@ -17,13 +17,13 @@ A selftaught future junior software tester.
 
 ❤️ I love true crime podcasts and chocolate.
 
-## Tools / Tech stack
+## Tech stack
 
 * Databases: MySQL
 * Operating systems: macOS, Windows
 * Version control systems: Git, Github
 * Poznane metodologie zarządzania, jak SCRUM czy Kanban.
-* Testing: Jira, Zephyr, TestFlo, Confluence, TestRail, Charles Proxy, Mockaroo, Dev Tools
+* Testing: Jira, Zephyr, TestFlo, Confluence, TestRail, Charles Proxy, Mockaroo, Chrome DevTools
 * Development environment: IntelliJ IDEA, Visual Studio Code
 * Other: Trello, Slack, Discord
 
@@ -37,17 +37,17 @@ A selftaught future junior software tester.
 
 ## Certificates
 
-* ISTQB FL (No. )
+* ISTQB FL (No. 89071)
 
 ## Courses and trainings
 
-* Testowanie produktów cyfrowych (testowanie oprogramowania) - Udemy
-* The Complete 2022 Software Testing Bootcamp - Udemy
-* Praktyczny kurs testowania oprogramowania - Udemy
-* Poznaj System Kontroli Wersji - GIT! | Kurs Gita po polsku! - Udemy
-* Testowanie manualne aplikacji - Czy IT jest dla mnie?
-* Academy - uTest
-* COLT - Cherry-it.pl
+* [Testowanie produktów cyfrowych (testowanie oprogramowania) - Udemy](https://www.udemy.com/course/testowanie-produktow-cyfrowych/)
+* [The Complete 2022 Software Testing Bootcamp - Udemy](https://www.udemy.com/course/testerbootcamp/)
+* [Praktyczny kurs testowania oprogramowania - Udemy](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+* [Poznaj System Kontroli Wersji - GIT! | Kurs Gita po polsku! - Udemy](https://www.udemy.com/course/kurs-git-po-polsku/)
+* [Testowanie manualne aplikacji - Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl)
+* [Academy - uTest](https://www.utest.com)
+* [COLT - Cherry-it.pl](http://cherry-it.pl)
 
 ## Technical Books
 
@@ -59,21 +59,21 @@ A selftaught future junior software tester.
 
 ## Groups on Facebook
 
-* Testowanie oprogramowania [https://www.facebook.com/groups/TestowanieOprogramowania]
-* Tester oprogramowania - wsparcie na starcie [https://www.facebook.com/groups/testeroprogramowania]
-* ISTQB - egzaminy, pytania, testy [https://www.facebook.com/groups/194288250951242]
-* AkademiaTestera.pl - Grupa wsparcia w IT [https://www.facebook.com/groups/akademiatestera]
-* Girls Who Test community [https://www.facebook.com/groups/girlswhotest]
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+* [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
+* [AkademiaTestera.pl - Grupa wsparcia w IT](https://www.facebook.com/groups/akademiatestera)
+* [Girls Who Test community](https://www.facebook.com/groups/girlswhotest)
 
 ## Recommended Blogs
 
-* www.testerzy.pl [https://www.testerzy.pl]
-* www.wyszkolewas.com.pl [https://www.wyszkolewas.com.pl]
-* www.cherry-it.pl [https://www.cherry-it.pl]
-* www.testelka.pl [https://www.testelka.pl]
-* www.niebezpiecznik.pl [https://www.niebezpiecznik.pl]
+* [www.testerzy.pl](https://www.testerzy.pl)
+* [www.wyszkolewas.com.pl](https://www.wyszkolewas.com.pl)
+* [www.cherry-it.pl](https://www.cherry-it.pl)
+* [www.testelka.pl](https://www.testelka.pl)
+* [www.niebezpiecznik.pl](https://www.niebezpiecznik.pl)
 
-## Webinars ??
+## Webinars 
 
 *
 
@@ -86,6 +86,8 @@ A selftaught future junior software tester.
 *
 
 ## My examples of diagrams and decision tables
+
+*
 
 ## My projects
 
