@@ -17,13 +17,14 @@ A selftaught future junior software tester.
 
 ❤️ I love true crime podcasts and chocolate.
 
+In this portfolio I'm presenting the knowledge and experience I have gained so far in the field of Manual testing. You can also find here test cases and bug reports created by me. 
+
 ## Tech stack
 
 * Databases: MySQL
 * Operating systems: macOS, Windows
 * Version control systems: Git, Github
-* Poznane metodologie zarządzania, jak SCRUM czy Kanban.
-* Testing: Jira, Zephyr, TestFlo, Confluence, TestRail, Charles Proxy, Mockaroo, Chrome DevTools
+* Testing: Jira, Zephyr, Confluence, TestRail, Charles Proxy, Mockaroo, Chrome DevTools
 * Development environment: IntelliJ IDEA, Visual Studio Code
 * Other: Trello, Slack, Discord
 
@@ -33,7 +34,10 @@ A selftaught future junior software tester.
 * Reporting bugs
 * Exploratory testing of web-based and mobile applications
 * Creating diagrams and decision tables
-* Basic SQL
+* Basic SQL skills 
+    * creating and managing databases
+    * writing complex requests using subqueries 
+    * familiar with the use of aliases and wildcards
 
 ## Certificates
 
@@ -47,7 +51,7 @@ A selftaught future junior software tester.
 * [Poznaj System Kontroli Wersji - GIT! | Kurs Gita po polsku! - Udemy](https://www.udemy.com/course/kurs-git-po-polsku/)
 * [Testowanie manualne aplikacji - Czy IT jest dla mnie?](https://www.czyitjestdlamnie.pl)
 * [Academy - uTest](https://www.utest.com)
-* [COLT - Cherry-it.pl](http://cherry-it.pl)
+* [COLT 1/2022 - Cherry-it.pl](http://cherry-it.pl)
 
 ## Technical Books
 
@@ -73,22 +77,10 @@ A selftaught future junior software tester.
 * [www.testelka.pl](https://www.testelka.pl)
 * [www.niebezpiecznik.pl](https://www.niebezpiecznik.pl)
 
-## Webinars 
+## My scenarios and test cases examples
 
-*
+* [Test cases for skleptest.pl - Excel] (https://docs.google.com/spreadsheets/d/1pS2W26cwIjPmrAeeeib00yg4cz65i57S80ttbQ_8mp4/edit?usp=sharing)
 
-## My test case examples
+## My bug reports examples
 
-*
-
-## My bug reports
-
-*
-
-## My examples of diagrams and decision tables
-
-*
-
-## My projects
-
-*
+* [Bug report for skleptest.pl - Jira] (https://drive.google.com/file/d/1OVuOfohqxGMyT8KHRCcwaswTr-e7Vv4g/view?usp=sharing)
